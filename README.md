@@ -27,6 +27,11 @@ $ npx create-react-native-web-app myApp
 # if you previously installed this package globaly run this command first to uninstall the previous version:
 # npm uninstall -g create-react-native-web-app
 
+# if you want to use typescript
+# add the --typescript flag
+$ npx crnwa myApp --typescript
+$ npx crnwa myApp -ts
+
 # cd into your <project-directory>
 $ cd myApp
 
